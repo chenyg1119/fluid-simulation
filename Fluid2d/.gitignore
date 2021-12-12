@@ -1,0 +1,6 @@
+myexp
+__pycache__
+*.so
+*~
+*.pyc
+_build
